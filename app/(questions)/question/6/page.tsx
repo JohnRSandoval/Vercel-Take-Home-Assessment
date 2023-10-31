@@ -30,7 +30,7 @@ Disallow: /`}
           </code></pre>
           <br/><br/>
           <p>
-          This tells all search engines to refrain from indexing your site. Keep in mind, this is a request, not an enforcement. Some search engines may not comply.
+          This tells all search engines to refrain from indexing your site. Keep in mind, that this is a request, not an enforcement. Some search engines may not comply.
           <br/><br/>
 For an added layer, you can use meta tags if you're employing Next.js or similar. Insert this line into the 'head' of your HTML:<br/><br/>
           </p>

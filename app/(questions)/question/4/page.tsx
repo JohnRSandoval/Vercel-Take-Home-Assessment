@@ -21,7 +21,7 @@ Thank you for reaching out! I'd be happy to help you redirect the '/blog' path i
 • Open your project's vercel.json file. This file is usually in the main folder of your project. <br />
 • Check if there's a part named redirects. If it's not there, you'll need to add it.<br />
 • In the redirects section, put in a new part that says where you want to send people when they go to /blog on your site.<br />
-• You'll also need to define if the redirect is just temporary or permanent . Use true for always and false for temporary.<br /><br />
+• You'll also need to define if the redirect is just temporary or permanent. Use true for always and false for temporary.<br /><br />
 Here's an example of how your 'vercel.json' file could look:<br /><br />
 </p>
           <pre><code>

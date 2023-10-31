@@ -11,20 +11,16 @@ export default function Home() {
         <p className="font-semibold text-[1rem] italic">"Describe how you solved a challenge that one of your previous teams faced.
 How did you determine your solution was successful?"</p>
         <p className='pt-10 w-[50%]'>
-        At UserTesting, I faced a challenge with a potential client during the pre-sales process. The client was evaluating our tool against competitors, looking for specific capabilities which our competitors offered, but ours did not, at least not out-of-the-box.
+        Overall, I thought that this process did a great job demonstrating both the technical and customer-social aspects of the Customer Success Engineering position! Although, there are a few suggestions I have to enhance the effectiveness:
 <br/><br/>
-The pre-sales team identified this as a key opportunity for a tailored demonstration of our tool's flexibility and the additional value we could provide. As one of the technical experts on the team, I was tasked with addressing two main issues: the integration of third-party SDK data and real-time customization of our site interactivity features.
+• Introduce a real-world scenario, such as a code snippet, for the candidate to analyze along with a demo email that came in from the customer. This provides practical insights into how the candidate thinks with more realistic scenarios.
+<br/>
+• Have candidates include a readme.md file to document their thought process for each step. This could help Vercel better understand their thought process.
+<br/>
+• Once done, I believe there should be a time for candid feedback on the assessment - this would help with transparency and help the candidate prepare for other positions/get closure.
 <br/><br/>
-Despite the absence of having these functionalities out of the gate, our API could still be utilized to meet the requirements of the client with just a little bit of JavaScript knowledge. To demonstrate this, I developed a demo using Next.js and within four days, I had a custom implementation that integrated third-party SDK data and allowed on-the-fly customizations. This rapid development was crucial in showing not just the capability, but also the agility of our product.
-<br/><br/>
-Measures of Success:
-<br/><br/>
-• The customer stated that the demo was exactly what they were looking for and were impressed with our quick turn around time/customizability.
-<br/><br/>
-• Since this customer was pre-sales, my solution played a key role in the customer's decision to move forward with our product.
-<br/><br/>
-This experience taught me the importance of understanding customer's needs and how to effectively communicate the value of a solution.
-        </p>
+I hope that these suggestions will help Vercel make better candidate decisions based on real-world scenarios that capture the candidate's true skillset.
+    </p>
       </div>
       
     </>
